@@ -1,0 +1,2 @@
+source C:/esp32idff/Espressif/projects/project1/build/gdbinit/symbols
+source C:/esp32idff/Espressif/projects/project1/build/gdbinit/connect
